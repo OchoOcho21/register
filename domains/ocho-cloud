@@ -1,0 +1,14 @@
+{
+  "repo": "https://github.com/OchoOcho21/ocho-cloud-storage",
+  "owner": {
+    "username": "OchoOcho21",
+    "email": "ochoocho21162@gmail.com"
+  },
+  "target": {
+    "CNAME": {
+      "name": "ocho-cloud",
+      "value": "aaronochoacloud.netlify.app"
+    }
+  },
+  "proxied": false
+}
